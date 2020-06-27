@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "firstAppli",
-    "slug": "firstAppli",
+    "name": "News",
+    "slug": "news",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "Find news related to any topic!"
   }
 }
